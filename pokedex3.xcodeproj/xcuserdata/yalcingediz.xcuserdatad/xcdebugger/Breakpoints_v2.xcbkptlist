@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokedex3/PokemonVC.swift"
+            timestampString = "518135024.665663"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "PokemonVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokedex3/PokemonVC.swift"
+            timestampString = "518133385.832494"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "PokemonVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pokedex3.PokemonVC.pokemonList.getter : Swift.Array&lt;pokedex3.Pokemon&gt;"
+                  moduleName = "pokedex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yalcingediz/Development/iOS/iOS10_Swift3/iOSWithSwiftProjects/pokedex3/pokedex3/PokemonVC.swift"
+                  timestampString = "518133386.978828"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pokedex3.PokemonVC.pokemonList.setter : Swift.Array&lt;pokedex3.Pokemon&gt;"
+                  moduleName = "pokedex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yalcingediz/Development/iOS/iOS10_Swift3/iOSWithSwiftProjects/pokedex3/pokedex3/PokemonVC.swift"
+                  timestampString = "518133387.013716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pokedex3.PokemonVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; pokedex3.PokemonVC"
+                  moduleName = "pokedex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yalcingediz/Development/iOS/iOS10_Swift3/iOSWithSwiftProjects/pokedex3/pokedex3/PokemonVC.swift"
+                  timestampString = "518133387.018169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pokedex3.PokemonVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;pokedex3.PokemonVC&gt;"
+                  moduleName = "pokedex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yalcingediz/Development/iOS/iOS10_Swift3/iOSWithSwiftProjects/pokedex3/pokedex3/PokemonVC.swift"
+                  timestampString = "518133387.022206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
